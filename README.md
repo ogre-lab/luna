@@ -1,7 +1,7 @@
 # Luna UI
 The first satellite around the milky way planets.
 
-Luna is just a simple test of adobe Franklin.
+Luna is just a simple test of [Adobe Franklin](https://www.hlx.live/developer/tutorial).
 
 ## Environments
 - Preview: https://main--luna--ogre-lab.hlx.page/
