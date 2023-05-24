@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Luna UI
+The first satellite around the milky way planets.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
